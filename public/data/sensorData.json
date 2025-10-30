@@ -1,0 +1,6 @@
+{
+  "tankDepth": 500,
+  "currentDistance": 150,
+  "timestamp": "2025-01-15T10:30:00Z",
+  "sensorId": "ARDUINO_UNO_001"
+}

@@ -1,0 +1,71 @@
+{
+  "farmers": [
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "email": "rajesh@example.com",
+      "quota": 5000,
+      "currentUsage": 3800,
+      "role": "Farmer"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "email": "priya@example.com",
+      "quota": 4500,
+      "currentUsage": 2100,
+      "role": "Farmer"
+    },
+    {
+      "id": 3,
+      "name": "Arun Patel",
+      "email": "arun@example.com",
+      "quota": 6000,
+      "currentUsage": 6200,
+      "role": "Farmer"
+    },
+    {
+      "id": 4,
+      "name": "Meena Reddy",
+      "email": "meena@example.com",
+      "quota": 5500,
+      "currentUsage": 4900,
+      "role": "Farmer"
+    },
+    {
+      "id": 5,
+      "name": "Suresh Yadav",
+      "email": "suresh@example.com",
+      "quota": 5000,
+      "currentUsage": 3200,
+      "role": "Farmer"
+    }
+  ],
+  "historicalData": [
+    {
+      "date": "2025-01-14",
+      "level": 380,
+      "usage": 18500
+    },
+    {
+      "date": "2025-01-13",
+      "level": 400,
+      "usage": 16200
+    },
+    {
+      "date": "2025-01-12",
+      "level": 420,
+      "usage": 14800
+    },
+    {
+      "date": "2025-01-11",
+      "level": 350,
+      "usage": 20100
+    },
+    {
+      "date": "2025-01-10",
+      "level": 365,
+      "usage": 19200
+    }
+  ]
+}
